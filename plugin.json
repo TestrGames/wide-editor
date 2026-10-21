@@ -2,7 +2,7 @@
     "id": "wide-editor",
     "name": "Wide File Editor",
     "author": "Lisak",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Makes the server file editor use the full width/height of the window, with a toggle button.",
     "category": "plugin",
     "url": "https://github.com/TestrGames/wide-editor",
@@ -10,6 +10,7 @@
     "namespace": "Lisak\\WideEditor",
     "class": "WideEditorPlugin",
     "panels": ["server"],
+    "api_version": 1,
     "panel_version": null,
     "composer_packages": null
 }
